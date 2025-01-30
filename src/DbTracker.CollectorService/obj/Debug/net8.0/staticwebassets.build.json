@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1q7t5LTWcddMZJyaeDTF66Cr4GvOAC4ZCHg9ZH8EhtI=",
+  "Source": "DbTracker.CollectorService",
+  "BasePath": "_content/DbTracker.CollectorService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

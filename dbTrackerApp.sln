@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# 
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dbTrackerApp", "dbTrackerApp\dbTrackerApp.csproj", "{68BEF319-619C-4704-85C4-555FE47AA175}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F66C15ED-D3B5-4278-BA86-F0F139DDED31}"
+	ProjectSection(SolutionItems) = preProject
+		compose.yaml = compose.yaml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1D33258A-0184-4E15-ADFB-B9022083532C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbTracker.CollectorService", "src\DbTracker.CollectorService\DbTracker.CollectorService.csproj", "{10B8A2ED-3C6B-44B0-942E-7BECF5D00849}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbTracker.ProcessorService", "src\DbTracker.ProcessorService\DbTracker.ProcessorService.csproj", "{F9557B9A-2AAC-4821-A0A7-16B2FF867C4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbTracker.ConfigService", "src\DbTracker.ConfigService\DbTracker.ConfigService.csproj", "{AABFD86E-F0B8-4BD8-97B2-310906A8F764}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbTracker.ReportingService", "src\DbTracker.ReportingService\DbTracker.ReportingService.csproj", "{84308D42-E1CD-4217-9956-5C4D515B349E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbTracker.Shared", "src\DbTracker.Shared\DbTracker.Shared.csproj", "{13D73160-F1C8-4E3B-A34C-66D2AECC36C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68BEF319-619C-4704-85C4-555FE47AA175}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68BEF319-619C-4704-85C4-555FE47AA175}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68BEF319-619C-4704-85C4-555FE47AA175}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68BEF319-619C-4704-85C4-555FE47AA175}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10B8A2ED-3C6B-44B0-942E-7BECF5D00849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B8A2ED-3C6B-44B0-942E-7BECF5D00849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10B8A2ED-3C6B-44B0-942E-7BECF5D00849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10B8A2ED-3C6B-44B0-942E-7BECF5D00849}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9557B9A-2AAC-4821-A0A7-16B2FF867C4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9557B9A-2AAC-4821-A0A7-16B2FF867C4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9557B9A-2AAC-4821-A0A7-16B2FF867C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9557B9A-2AAC-4821-A0A7-16B2FF867C4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AABFD86E-F0B8-4BD8-97B2-310906A8F764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AABFD86E-F0B8-4BD8-97B2-310906A8F764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AABFD86E-F0B8-4BD8-97B2-310906A8F764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AABFD86E-F0B8-4BD8-97B2-310906A8F764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84308D42-E1CD-4217-9956-5C4D515B349E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84308D42-E1CD-4217-9956-5C4D515B349E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84308D42-E1CD-4217-9956-5C4D515B349E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84308D42-E1CD-4217-9956-5C4D515B349E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13D73160-F1C8-4E3B-A34C-66D2AECC36C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13D73160-F1C8-4E3B-A34C-66D2AECC36C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13D73160-F1C8-4E3B-A34C-66D2AECC36C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13D73160-F1C8-4E3B-A34C-66D2AECC36C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{10B8A2ED-3C6B-44B0-942E-7BECF5D00849} = {1D33258A-0184-4E15-ADFB-B9022083532C}
+		{F9557B9A-2AAC-4821-A0A7-16B2FF867C4C} = {1D33258A-0184-4E15-ADFB-B9022083532C}
+		{AABFD86E-F0B8-4BD8-97B2-310906A8F764} = {1D33258A-0184-4E15-ADFB-B9022083532C}
+		{84308D42-E1CD-4217-9956-5C4D515B349E} = {1D33258A-0184-4E15-ADFB-B9022083532C}
+		{13D73160-F1C8-4E3B-A34C-66D2AECC36C6} = {1D33258A-0184-4E15-ADFB-B9022083532C}
+	EndGlobalSection
+EndGlobal

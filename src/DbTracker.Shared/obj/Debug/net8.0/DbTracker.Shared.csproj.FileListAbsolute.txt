@@ -1,0 +1,11 @@
+/Users/ogunkirikci/Desktop/dbTrackerApp/src/DbTracker.Shared/bin/Debug/net8.0/DbTracker.Shared.deps.json
+/Users/ogunkirikci/Desktop/dbTrackerApp/src/DbTracker.Shared/bin/Debug/net8.0/DbTracker.Shared.dll
+/Users/ogunkirikci/Desktop/dbTrackerApp/src/DbTracker.Shared/bin/Debug/net8.0/DbTracker.Shared.pdb
+/Users/ogunkirikci/Desktop/dbTrackerApp/src/DbTracker.Shared/obj/Debug/net8.0/DbTracker.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ogunkirikci/Desktop/dbTrackerApp/src/DbTracker.Shared/obj/Debug/net8.0/DbTracker.Shared.AssemblyInfoInputs.cache
+/Users/ogunkirikci/Desktop/dbTrackerApp/src/DbTracker.Shared/obj/Debug/net8.0/DbTracker.Shared.AssemblyInfo.cs
+/Users/ogunkirikci/Desktop/dbTrackerApp/src/DbTracker.Shared/obj/Debug/net8.0/DbTracker.Shared.csproj.CoreCompileInputs.cache
+/Users/ogunkirikci/Desktop/dbTrackerApp/src/DbTracker.Shared/obj/Debug/net8.0/DbTracker.Shared.dll
+/Users/ogunkirikci/Desktop/dbTrackerApp/src/DbTracker.Shared/obj/Debug/net8.0/refint/DbTracker.Shared.dll
+/Users/ogunkirikci/Desktop/dbTrackerApp/src/DbTracker.Shared/obj/Debug/net8.0/DbTracker.Shared.pdb
+/Users/ogunkirikci/Desktop/dbTrackerApp/src/DbTracker.Shared/obj/Debug/net8.0/ref/DbTracker.Shared.dll

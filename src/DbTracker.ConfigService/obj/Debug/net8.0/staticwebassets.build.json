@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4aozia+rM3tJBlJUKuzYNQGLmyA8qUAxqHwm7kdWPGM=",
+  "Source": "DbTracker.ConfigService",
+  "BasePath": "_content/DbTracker.ConfigService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

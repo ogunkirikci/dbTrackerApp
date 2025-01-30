@@ -1,0 +1,6 @@
+@DbTracker.ProcessorService_HostAddress = http://localhost:5248
+
+GET {{DbTracker.ProcessorService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

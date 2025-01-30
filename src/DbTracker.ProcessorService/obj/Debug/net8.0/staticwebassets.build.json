@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Nh0Tg8e81ZIU2I6lD0lpCGp0V0tsZ0J3OwR44AtAcyM=",
+  "Source": "DbTracker.ProcessorService",
+  "BasePath": "_content/DbTracker.ProcessorService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
