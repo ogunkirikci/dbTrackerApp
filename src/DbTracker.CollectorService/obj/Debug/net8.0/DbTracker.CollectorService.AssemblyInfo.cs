@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DbTracker.CollectorService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfebc68f2a4a7a930d516b6da46d5f160ccb2423")]
 [assembly: System.Reflection.AssemblyProductAttribute("DbTracker.CollectorService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DbTracker.CollectorService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
